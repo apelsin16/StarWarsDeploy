@@ -3,16 +3,16 @@ import { Route, Switch } from 'react-router-dom';
 import Header from '../header';
 import RandomPlanet from '../random-planet';
 import { PeoplePage, PlanetsPage, StarshipsPage } from '../pages';
-// import ErrorBoundry from './../error-boundry/error-boundry';
+import ErrorBoundry from './../error-boundry/error-boundry';
 import './app.css';
-import ErrorBoundry from '../error-boundry/error-boundry';
+
 
 const App = () => {
 
     return (
         
         <div className='container'>   
-            {/* <ErrorBoundry>   */}
+            <ErrorBoundry>  
                          
                     <Header />
                     <ErrorBoundry>
@@ -26,7 +26,7 @@ const App = () => {
                         <Route render={<h2>Page not found</h2>} />
                     </Switch>
                 
-            {/* </ErrorBoundry> */}
+            </ErrorBoundry>
         </div>
       
     );
