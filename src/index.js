@@ -5,7 +5,7 @@ import App from './components/app';
 import { BrowserRouter } from 'react-router-dom';
 
 ReactDOM.render(
-    <BrowserRouter basename='/build' >
+    <BrowserRouter basename='/StarWarsDeploy/build' >
         <App />
     </BrowserRouter>,
     document.getElementById('root'));
