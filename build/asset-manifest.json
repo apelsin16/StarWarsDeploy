@@ -1,13 +1,13 @@
 {
   "main.css": "/StarWarsDeploy/build/static/css/main.7c786faf.chunk.css",
-  "main.js": "/StarWarsDeploy/build/static/js/main.5a23fe22.chunk.js",
-  "main.js.map": "/StarWarsDeploy/build/static/js/main.5a23fe22.chunk.js.map",
+  "main.js": "/StarWarsDeploy/build/static/js/main.6cddedba.chunk.js",
+  "main.js.map": "/StarWarsDeploy/build/static/js/main.6cddedba.chunk.js.map",
   "runtime~main.js": "/StarWarsDeploy/build/static/js/runtime~main.30e80dce.js",
   "runtime~main.js.map": "/StarWarsDeploy/build/static/js/runtime~main.30e80dce.js.map",
   "static/js/2.909d193a.chunk.js": "/StarWarsDeploy/build/static/js/2.909d193a.chunk.js",
   "static/js/2.909d193a.chunk.js.map": "/StarWarsDeploy/build/static/js/2.909d193a.chunk.js.map",
   "index.html": "/StarWarsDeploy/build/index.html",
-  "precache-manifest.b7dde77c5b7bd97c05f0d7be6960082e.js": "/StarWarsDeploy/build/precache-manifest.b7dde77c5b7bd97c05f0d7be6960082e.js",
+  "precache-manifest.fa31f9aad57b701f82165832af8c04b5.js": "/StarWarsDeploy/build/precache-manifest.fa31f9aad57b701f82165832af8c04b5.js",
   "service-worker.js": "/StarWarsDeploy/build/service-worker.js",
   "static/css/main.7c786faf.chunk.css.map": "/StarWarsDeploy/build/static/css/main.7c786faf.chunk.css.map"
 }
