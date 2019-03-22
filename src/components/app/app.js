@@ -22,7 +22,7 @@ const App = () => {
                         <Route path="/planets" component={PlanetsPage} />  
                         <Route path='/starships' component={StarshipsPage}  />
                         <Route exact path='/' render={()=>(<h2>Welcome to StarWars Data Base</h2> )} />   
-                        <Route render={<h2>Page not found</h2>} />
+                        <Route render={()=>(<h2>Page not found</h2>)} />
                     </Switch>
                 
             </ErrorBoundry>
