@@ -19,10 +19,10 @@ const App = () => {
                         <RandomPlanet />
                     </ErrorBoundry>
                     <Switch>
-                        <Route path='/people' component={PeoplePage}  />  
-                        <Route path="/planets" component={PlanetsPage} />  
-                        <Route path='/starships' component={StarshipsPage}  />
                         <Route exact path='/' render={()=>(<h2>Welcome to StarWars Data Base</h2> )} />   
+                        <Route exact path='/people' component={PeoplePage}  />  
+                        <Route exact path="/planets" component={PlanetsPage} />  
+                        <Route exact path='/starships' component={StarshipsPage}  />
                         <Route render={<h2>Page not found</h2>} />
                     </Switch>
                 
