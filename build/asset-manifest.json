@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.ef16257e.chunk.css",
-  "main.js": "/static/js/main.189ad88d.chunk.js",
-  "main.js.map": "/static/js/main.189ad88d.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-  "static/js/2.5c2fb50a.chunk.js": "/static/js/2.5c2fb50a.chunk.js",
-  "static/js/2.5c2fb50a.chunk.js.map": "/static/js/2.5c2fb50a.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.2ec9f841f1c29a5ad45a7ddce933f4fa.js": "/precache-manifest.2ec9f841f1c29a5ad45a7ddce933f4fa.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.ef16257e.chunk.css.map": "/static/css/main.ef16257e.chunk.css.map"
+  "main.css": "/StarWarsDeploy/build/static/css/main.ef16257e.chunk.css",
+  "main.js": "/StarWarsDeploy/build/static/js/main.189ad88d.chunk.js",
+  "main.js.map": "/StarWarsDeploy/build/static/js/main.189ad88d.chunk.js.map",
+  "runtime~main.js": "/StarWarsDeploy/build/static/js/runtime~main.30e80dce.js",
+  "runtime~main.js.map": "/StarWarsDeploy/build/static/js/runtime~main.30e80dce.js.map",
+  "static/js/2.5c2fb50a.chunk.js": "/StarWarsDeploy/build/static/js/2.5c2fb50a.chunk.js",
+  "static/js/2.5c2fb50a.chunk.js.map": "/StarWarsDeploy/build/static/js/2.5c2fb50a.chunk.js.map",
+  "index.html": "/StarWarsDeploy/build/index.html",
+  "precache-manifest.ec7e88436412012229e70165dc35599e.js": "/StarWarsDeploy/build/precache-manifest.ec7e88436412012229e70165dc35599e.js",
+  "service-worker.js": "/StarWarsDeploy/build/service-worker.js",
+  "static/css/main.ef16257e.chunk.css.map": "/StarWarsDeploy/build/static/css/main.ef16257e.chunk.css.map"
 }
