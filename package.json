@@ -23,5 +23,8 @@
     "not ie <= 11",
     "not op_mini all"
   ],
-  "homepage": "https://apelsin16.github.io/StarWarsDeploy/build/"
+  "homepage": "https://apelsin16.github.io/StarWarsDeploy/build/",
+  "devDependencies": {
+    "node": "^16.0.0"
+  }
 }
