@@ -1,6 +1,6 @@
 import React from 'react';
 import './item-details.css';
-import defaultImage from './default-image.png';
+import defaultImage from '../random-planet/default-image.png';
 
 const Record = ({ item, field, label }) => {
   return (
