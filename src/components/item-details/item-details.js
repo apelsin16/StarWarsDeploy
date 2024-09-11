@@ -1,5 +1,6 @@
 import React from 'react';
 import './item-details.css';
+import defaultImage from './default-image.png';
 
 const Record = ({ item, field, label }) => {
   return (
@@ -23,7 +24,9 @@ const ItemDetails = (props) => {
      
         <img className="item-image"
           src={props.image}
-          alt="item"/>
+          alt="item"
+          onError={(e) => e.target.src = defaultImage}
+        />
 
         <div className="card-body">
           <h4>{item.name}</h4>
