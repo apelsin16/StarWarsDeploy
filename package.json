@@ -13,6 +13,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
@@ -24,7 +25,7 @@
     "not ie <= 11",
     "not op_mini all"
   ],
-  "homepage": ".",
+  "homepage": "https://apelsin16.github.io/StarWarsDeploy",
   "devDependencies": {
     "gh-pages": "^6.1.1",
     "node": "^16.0.0"
